@@ -420,7 +420,7 @@
     height: 70vh;
   }
   .women .item_two .bottom .left {
-    padding-bottom: 6px;
+    padding-bottom: 3px;
   }
 }
 @media (max-width: 325px) {
