@@ -193,6 +193,9 @@
 .pen {
     height: 50vh;
   }
+  .pen_text .text_title p {
+    text-align: center;
+  }
   .pen .small_none {
     display: none;
   }
