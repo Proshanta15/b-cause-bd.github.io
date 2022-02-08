@@ -99,6 +99,9 @@
   .menu .menu_list ul li a {
     font-size: 15px;
   }
+  .head_img {
+    height: 75vh;
+  }
   .head_img .top_text {
     left: 10px;
   }
