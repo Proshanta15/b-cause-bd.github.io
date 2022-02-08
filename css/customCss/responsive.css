@@ -190,7 +190,9 @@
   .arrow_text p {
     font-size: 16px;
   }
-
+.pen {
+    height: 50vh;
+  }
   .pen .small_none {
     display: none;
   }
